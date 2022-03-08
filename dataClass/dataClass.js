@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.Request = void 0;
 var Request = /** @class */ (function () {
     function Request(method, uri, version, message) {
@@ -15,3 +15,4 @@ var Request = /** @class */ (function () {
 exports.Request = Request;
 var myData = new Request('GET', 'http://google.com', 'HTTP/1.1', 'OK');
 console.log(myData);
+//# sourceMappingURL=dataClass.js.map

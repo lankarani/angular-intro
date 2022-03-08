@@ -37,3 +37,4 @@ sortTickets([
     'New York City|95.99|sold',
     'Boston|126.20|departed'
 ], 'status');
+//# sourceMappingURL=tickets.js.map
